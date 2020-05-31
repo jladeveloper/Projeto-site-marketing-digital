@@ -1,0 +1,74 @@
+@charset "UTF-8";
+@import url("https://fonts.googleapis.com/css?family=Titillium+Web&display=swap");
+* {
+    /*padding: 0;
+    margin: 0;*/
+    font-family: "Titillium Web", sans-serif;
+}
+
+.fs-1 {
+    font-size: 10px;
+}
+
+.fs-2 {
+    font-size: 13px;
+}
+
+.fs-3 {
+    font-size: 15px;
+}
+
+.fs-4 {
+    font-size: 17px;
+}
+
+.fs-5 {
+    font-size: 21px;
+}
+
+.ti-auto {
+    text-indent: 0;
+}
+
+.ti-1 {
+    text-indent: 25px;
+}
+
+.ti-2 {
+    text-indent: 50px;
+}
+
+.bg-pink {
+    background-color: #ff02ab;
+}
+
+.bg-fundo {
+    background-color: #f7d71e;
+}
+
+.bg-black {
+    background-color: #0f0f0f;
+}
+
+.bg-sky {
+    background-color: #00bfff;
+}
+
+.border-black {
+    border: dashed 1px #0f0f0f;
+}
+
+p {
+    font-size: 18px;
+    text-indent: 50px;
+}
+
+code {
+    font-size: 18px;
+    padding: 2px;
+}
+
+a,
+a:hover {
+    text-decoration: none;
+}
